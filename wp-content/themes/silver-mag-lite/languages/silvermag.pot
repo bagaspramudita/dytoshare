@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Silvermag_lite\n"
+"POT-Creation-Date: 2014-04-02 12:49+0530\n"
+"PO-Revision-Date: 2014-04-04 11:19+0530\n"
+"Last-Translator: RajaCRN <support@themepacific.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: /home/raja/public_html/themepacific/wp-content/themes/"
+"silver_mag_lite\n"
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:35
+msgid "Top Menu"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:36
+msgid "Secondary Menu"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:173
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:190
+msgid "<i class=\"icon-double-angle-left\"></i>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:191
+msgid "<i class=\"icon-double-angle-right\"></i>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:209
+msgid "Pingback:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:209
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:237
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/single.php:23
+msgid "Edit"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:227
+#, php-format
+msgid "%1$s  %2$s  "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:232
+#, php-format
+msgid "<span class=\"time\">%1$s </span>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:241
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/functions.php:247
+msgid " <span><i class=\"icon-reply\"></i></span> Reply"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/404.php:1
+msgid "Page Not Found"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/blog-loop.php:10
+msgid "Sorry, no posts to display!"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/search.php:1
+#, php-format
+msgid "Search results for \"%s\" "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/footer.php:1
+#, php-format
+msgid "Designed By %1$s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/footer.php:1
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/archive.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/archive.php:12
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/archive.php:14
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/archive.php:16
+#, php-format
+msgid "Category : %s  "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/archive.php:18
+#, php-format
+msgid "Author : %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/archive.php:20
+msgid "Blog Archives"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/index.php:7
+msgid "Recent Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/single.php:39
+msgid "TOPICS"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/single.php:49
+msgid "<span>Previous: </span> %title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/single.php:50
+msgid "<span>Next: </span> %title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+#, php-format
+msgid " There is <em>One</em> Comment."
+msgid_plural "There are <em>%1$s</em> Comments."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid "&#123; Comments are closed &#125;"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid "Name"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid "Email"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid "Website"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/comments.php:1
+msgid "Leave a Reply"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/searchform.php:1
+msgid "Search here.."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-popular-posts.php:32
+msgid "A Widget to dispaly Popular Posts With Thumbs"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-popular-posts.php:33
+msgid "ThemePacific : Popular Posts Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-popular-posts.php:98
+msgid "Popular Posts "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-popular-posts.php:102
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "Title:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-popular-posts.php:108
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-category-post.php:112
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-category-post.php:31
+msgid "A Widget to dispaly Category Posts With Thumbs"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-category-post.php:32
+msgid "ThemePacific : Category Posts Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-category-post.php:102
+msgid "Category Name "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-category-post.php:106
+msgid "Enter category Name:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-video.php:55
+msgid " Featured Video"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "Social"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "Feed URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "Facebook URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "Google+ URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "Twitter URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "LinkedIn URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "YouTube URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-socialnw.php:99
+msgid "Flickr URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "A Flickr widget to Display flickr photo streams"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "ThemePacific : Flickr"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "Flickr "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "0"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "Flickr ID:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "Number of Photos to Display:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "Type (user or group):"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag_lite/widgets/widget-flickr.php:1
+msgid "Display (random or latest):"
+msgstr ""

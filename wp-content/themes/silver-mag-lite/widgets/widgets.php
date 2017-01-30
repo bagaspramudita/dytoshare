@@ -1,0 +1,1 @@
+<?php  	include ('widget-socialnw.php' ); 	include ('widget-popular-posts.php' ); 	include ('widget-homepage_doublet.php' ); 	include ('widget-category-post.php' ); 	include ('widget-flickr.php' ); 	include ('widget-video.php' ); ?>

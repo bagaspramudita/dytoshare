@@ -1,0 +1,8 @@
+/*
+    * File Name: SilverMag Background Images
+    * Copyright 2014 ThemePacific
+	* Free to use under the GPLv2 license.
+	* http://www.gnu.org/licenses/gpl-2.0.html
+	* Author : Raja CRN, ThemePacific
+  */
+Background images used in the theme are released under the GPLv2 license.

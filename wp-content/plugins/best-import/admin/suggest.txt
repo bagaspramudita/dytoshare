@@ -1,0 +1,16 @@
+&lt;author/name&gt;
+&lt;author/email&gt;
+&lt;entry/id&gt;
+&lt;entry/published&gt;
+&lt;entry/updated&gt;
+&lt;entry/category&gt;
+&lt;entry/category&gt;[scheme=http://schemas.google.com/g/2005#kind]
+&lt;entry/title&gt;
+&lt;entry/title&gt;[type=text]
+&lt;entry/content&gt;
+&lt;entry/content&gt;[type=text]
+&lt;entry/link&gt;
+&lt;entry/link&gt;[rel=edit]
+&lt;entry/link&gt;[rel=self]
+&lt;entry/link&gt;[rel=alternate]
+&lt;media&gt;

@@ -1,0 +1,8 @@
+/*
+    * File Name: SilverMag Social Icons 
+    * Copyright 2014 ThemePacific
+	* Free to use under the GPLv2 license.
+	* http://www.gnu.org/licenses/gpl-2.0.html
+	* Author : Raja CRN, David Abraham
+  */
+Social Network icons used in the theme are released under the GPLv2 license.

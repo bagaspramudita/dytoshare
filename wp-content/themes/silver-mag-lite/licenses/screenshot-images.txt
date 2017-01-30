@@ -1,0 +1,8 @@
+Photos used in the Screenshot of the theme:
+
+All the images used in the screenshot are under the license GPL v2.0
+
+File Name: default-image.png
+Author : ThemePacific
+License : Distributed under the GPL v2.0
+ 
